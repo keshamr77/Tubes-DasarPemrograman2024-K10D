@@ -1,6 +1,6 @@
 # Tubes-DasarPemrograman2024-K10D
 
-Kelas K10 Kelompok C :
+Kelas K10 Kelompok D :
 * Kesha Mufrih Ramadhan (16523009)
 * A.A. Gede Aditya Virgadinata (16523039)
 * Nisrina Azzah Atiqoh (16523229)
